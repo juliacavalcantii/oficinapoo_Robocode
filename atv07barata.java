@@ -1,7 +1,6 @@
-package javarico;
+package barata;
 import robocode.*;
-
-public class Atividade07_javarico extends Robot
+public class Barata extends Robot
 {
     public void run() {
         // Começa andando reto (para frente)
